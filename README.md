@@ -36,8 +36,6 @@
 │   └── word2vec.model
 ├── nevermore
 │   ├── checkpoints
-│   │   └── 7
-│   │       └── 383_new2.chkpt
 │   ├── config.py
 │   ├── dataset.py
 │   ├── firstline.py
